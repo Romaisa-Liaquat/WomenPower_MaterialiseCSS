@@ -1,0 +1,28 @@
+.img{
+    background-image: url(./images/IAM-WOMAN-620x330.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    max-height: 100%;
+}
+.msg{
+    padding-top: 300px;
+}
+/*.scnd_last{
+    margin-right:0;
+}*/
+.donation{
+    padding-top: 100px;
+}
+.btn{
+    width: 80%;
+}
+.btn_text{
+    margin: 0 auto;
+}
+.ftr{
+    height: 55px;
+    margin: 0 auto;
+    
+}
